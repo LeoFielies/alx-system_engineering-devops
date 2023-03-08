@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir dir{welcome/welcome/to/welcome/to/school}/102-tree
+touch dir{welcome/welcome/to/welcome/to/school}/102-tree
